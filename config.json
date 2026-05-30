@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceconnect",
+        "uuid": 2982677,
+        "checksum": "0tut19"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
